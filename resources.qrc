@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/images">
-    <file alias="splash.svg">resources/ngebuk_warna.svg</file>
-    <file alias="icon.svg">resources/ngebuk_warna.svg</file>
-  </qresource>
-</RCC>
