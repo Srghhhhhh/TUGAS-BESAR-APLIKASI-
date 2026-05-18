@@ -1,5 +1,0 @@
-// app_icon.rc
-// File ini membuat icon muncul di file .exe Windows
-// Icon di-generate dari SVG oleh generate_icon.py
-
-IDI_ICON1 ICON "resources/app_icon.ico"
