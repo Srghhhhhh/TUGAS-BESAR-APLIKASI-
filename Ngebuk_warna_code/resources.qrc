@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="splash.svg">resources/ngebuk_warna.svg</file>
+    <file alias="icon.svg">resources/ngebuk_warna.svg</file>
+  </qresource>
+  <qresource prefix="/icons">
+    <file alias="pencil.svg">resources/icons/pencil.svg</file>
+    <file alias="eraser.svg">resources/icons/eraser.svg</file>
+    <file alias="fill.svg">resources/icons/fill.svg</file>
+    <file alias="rect.svg">resources/icons/rect.svg</file>
+    <file alias="ellipse.svg">resources/icons/ellipse.svg</file>
+    <file alias="line.svg">resources/icons/line.svg</file>
+    <file alias="colorpicker.svg">resources/icons/colorpicker.svg</file>
+  </qresource>
+</RCC>
