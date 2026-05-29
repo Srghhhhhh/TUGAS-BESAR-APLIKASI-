@@ -9,4 +9,5 @@ Selain fitur menggambar bebas, aplikasi juga menyediakan beberapa tools seperti 
 - Tengku Hafiz Novandi (251401039)
 - Yehezkiel Saragih (251401060)
 # Link Panduan
-[PAINT APP](https://docs.google.com/document/d/1Us7cb3wb3wLTcSmnm4N8KXYvigJPGP7fhsqOBkSclyQ/edit?tab=t.0)
+
+Berikut link panduan dan tugas masing masing anggota: [PAINT APP](https://docs.google.com/document/d/1Us7cb3wb3wLTcSmnm4N8KXYvigJPGP7fhsqOBkSclyQ/edit?tab=t.0)
